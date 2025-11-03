@@ -1,0 +1,580 @@
+#navegacion-p a{
+
+font-size: 20px;
+color: black;
+position: relative;
+left: 100px;
+top: -38px;
+text-decoration: none;
+padding-left: 40px;
+
+}
+
+legend{
+    height: 20px;
+    width: 50px;
+}
+
+
+ol{
+
+    border: solid; width: 300; height: 230px;
+
+}
+
+h1{
+text-align: center;
+
+}
+
+
+#navegacion {
+
+font-size: 20px;
+width: 250PX;
+
+position: relative;
+right: -1350px;
+top: -62px;
+text-decoration: none;
+padding-left: 40px;
+
+
+}
+
+#navegacion a{
+
+    color: black;
+    text-decoration: none;
+    padding-left: 40px;
+    
+}
+
+#p1 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+
+
+}
+
+
+#p2 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+
+}
+
+#p3 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+
+}
+
+#p4 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+
+}
+
+#p5 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+
+}
+
+#p6  {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+
+
+}
+
+#p7  {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+
+
+}
+
+
+#p8  {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+
+}
+
+#z1{
+
+    border: solid; width: 400; height: 650px;
+
+}
+
+#z2 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+
+}
+
+#z3 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+
+}
+
+#z4 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z5 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z6 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z7 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z8 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z9 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z10 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z11 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z12 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+
+#z13 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z14 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z15 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z16 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z17 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z18 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z19 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z20 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z21 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z22 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z23 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z24 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z25 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z26 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z27 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z28 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z29 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z30 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#z31 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#d1 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#d2 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#d3 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#d4 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#d5 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#d6 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#d7 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#d8 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+}
+
+#ol11 {
+
+padding-left: 70px;
+border: 2px solid black;height: 2px; width: 2px;
+border-radius: 5px;
+
+
+
+}
+
+#olpp{
+
+padding-left: 70px;
+border: solid black; height: 50; width: 50;
+border-radius: 5px;
+
+
+}
+
+#x1 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+
+}
+
+#x2 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+
+}
+
+#x3 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+
+
+}
+
+#pq{ 
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;
+   }
+
+
+#f1 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;   
+
+}
+
+#f2 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;   
+
+}
+
+#f3 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;   
+
+}
+
+#f4 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;   
+
+}
+
+#f5 {
+
+padding-left: 70px;
+border: 2px solid black;
+border-radius: 5px;   
+
+}
+
+
+#formulario {
+    max-width: 500px;
+    margin: 60px auto;
+    background-color: #fafafa;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+#formulario h2 {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #000;
+    border-radius: 4px;
+    margin-top: 5px;
+    box-sizing: border-box;
+}
+
+button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #e0e0e0;
+    border: 1px solid #000;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #d6d6d6;
+}
